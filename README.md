@@ -1,3 +1,5 @@
+Hello There 👋, I'm John Fred Fadrigalan
+
 <h1 style="color:#22c55e;">Building the web, one clean commit at a time ⚡</h1>
 
 <p style="font-size:16px;">
