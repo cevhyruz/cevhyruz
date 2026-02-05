@@ -4,15 +4,12 @@ Hello There 👋, I'm John Fred Fadrigalan
 
 Passionate about crafting reliable, user-friendly web applications with modern tools and workflows.
 
+###### Contact Me On
+[![Email](https://img.shields.io/badge/Gmail-johnfred.fadrigalan%40hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnfred.fadrigalan@hotmail.com)
+
 ###### Find Me On
-[johnfred.fadrigalan@hotmail.com](mailto:johnfred.fadrigalan@hotmail.com)
-
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/cevhyruz)
-
 
 
 
