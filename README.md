@@ -7,5 +7,5 @@
 ###### Contact Me On
 ```fredjohn159@gmail.com```
 
-[![Email](https://img.shields.io/badge/Gmail-johnfred.fadrigalan%40hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredjohn159@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-fredjohn159%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredjohn159@gmail.com)
 
