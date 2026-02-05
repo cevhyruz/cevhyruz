@@ -1,6 +1,4 @@
-###### Hello There 👋, I'm John Fred Fadrigalan
-
-<h1 style="color:#22c55e;">A Software Engineer specializing on Web Development</h1>
+# A Software Engineer specializing on Web Development
 
 — Passionate about crafting reliable, user-friendly web applications with modern tools and workflows.
 ##### Portfolio Website: &nbsp; https://johnfredfadrigalan.vercel.app
