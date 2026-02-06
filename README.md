@@ -1,4 +1,4 @@
-###### Hello There 👋, I'm John Fred Fadrigalan
+##### Hello There 👋, I'm John Fred Fadrigalan
 
 # A Software Engineer specializing on Web Development
 
