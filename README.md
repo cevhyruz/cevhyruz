@@ -1,6 +1,6 @@
 ##### Hello There 👋, I'm John Fred Fadrigalan
 
-# A Software Engineer specializing in Web Development
+# A Software Engineer specializing in Fullstack Web Development
 
 — Passionate about crafting reliable, user-friendly web applications with modern tools and workflows.
 ##### Portfolio Website: &nbsp; https://johnfredfadrigalan.vercel.app
