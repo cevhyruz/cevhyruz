@@ -20,7 +20,7 @@ jobs:
       - name: Generate table
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: .github/scripts/update-repos.sh
+        run: .github/scripts/update-repo-list-table.sh
 
       - name: Commit changes
         run: |
