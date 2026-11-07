@@ -12,7 +12,7 @@
 <!-- REPOS:START -->
 | Repo | Description | Language | Stars |
 |------|-------------|----------|-------|
-| [bash-tui](https://github.com/cevhyruz/bash-tui) | A TUI library for bash scripts | - | ⭐ 1 |
+| [bash-tui](https://github.com/cevhyruz/bash-tui) | A TUI library for bash scripts | Shell | ⭐ 1 |
 | [dotfiles](https://github.com/cevhyruz/dotfiles) | My personal development environment | Shell | ⭐ 11 |
 | [notes](https://github.com/cevhyruz/notes) | The journey of improving myself starts by documenting it early | - | ⭐ 0 |
 | [dprs-server](https://github.com/cevhyruz/dprs-server) | API service for dprs | JavaScript | ⭐ 2 |
@@ -32,7 +32,6 @@
 | [cevhyruz-portfolio](https://github.com/cevhyruz/cevhyruz-portfolio) | - | - | ⭐ 2 |
 | [multi-language-single-repo-coverage](https://github.com/cevhyruz/multi-language-single-repo-coverage) | only for testing multi language support for code coverage on a single repository. | - | ⭐ 1 |
 | [github-actions-for-ci](https://github.com/cevhyruz/github-actions-for-ci) | - | JavaScript | ⭐ 1 |
-| [dotfiles2](https://github.com/cevhyruz/dotfiles2) | - | - | ⭐ 1 |
 | [typemaster](https://github.com/cevhyruz/typemaster) | Simple typing tool to help increase your typing speed | - | ⭐ 1 |
 | [go](https://github.com/cevhyruz/go) | learning golang | Go | ⭐ 1 |
 | [dotvim](https://github.com/cevhyruz/dotvim) | IDE-like experience for vim, neovim and gvim. | - | ⭐ 1 |
@@ -41,5 +40,4 @@
 | [olm.com](https://github.com/cevhyruz/olm.com) | Development of Onlne Learning Module for Senior High (client project) | - | ⭐ 1 |
 | [lazyScript](https://github.com/cevhyruz/lazyScript) | Collection of scripts to automate my common tasks | - | ⭐ 1 |
 | [webBuilder](https://github.com/cevhyruz/webBuilder) | - | JavaScript | ⭐ 1 |
-| [cevhyruz.github.io](https://github.com/cevhyruz/cevhyruz.github.io) | my personal portfolio and blog site | HTML | ⭐ 1 |
 <!-- REPOS:END -->
